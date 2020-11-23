@@ -99,7 +99,7 @@ Pour le guichet, le jury sera composé de membres de la DITP et de la DINUM, ce 
 
 ### Quand auront lieu les auditions et quel sera le format (durée, questions / réponses) ? 
 
-Le passage devant le jury pour les dossiers présélectionnés au premier appel à projets se tiendront mi-janvier. Le format du passage devant le jury à l'oral sera 10 minutes de présentation devant le jury (en visio-conférence) puis 10 minutes de questions / réponses et enfin 10 minutes de délibération du jury. 
+Le passage devant le jury pour les dossiers présélectionnés au premier appel à projets se tiendront mi-janvier. Le format du passage devant le jury à l'oral sera 10 minutes de présentation devant le jury (en visio-conférence) puis 10 minutes de questions / réponses et enfin 10 minutes de délibération du jury. Lors de la présentation de votre projet devant le jury, vous aurez la possibilité de projeter une présentation. Vous pouvez réutiliser la présentation (dont le template est [ici](./documents/support_candidature_AAP_Data.pptx) ) déposée lors du dépôt de candidature sur Démarches Simplifiées, qu'il vous est bien évidemment possible de modifier pour la présentation devant le jury. 
 
 
 
