@@ -1,6 +1,13 @@
 # FAQ Plan de relance
 
 
+## Liens utiles 
+
+- Lien vers la page dédiée du site France Relance: https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot 
+- Lien vers le dossier de candidature Démarches Simplifiées: https://www.demarches-simplifiees.fr/commencer/developper-l-utilisation-de-la-donnee-dans-votre-a 
+- le [template](./documents/support_candidature_AAP_Data.pptx) pour réaliser la présentation de votre projet à uploader sur Démarches Simplifiées pour votre candidature
+- le [support de présentation](./documents/2020_11_10_reunion_info_plan_relance.pdf) de la réunion d'information du 10 novembre
+
 ## Qui est éligible ? 
 
 ### Les Services à compétences nationales (SCN) sont-ils éligibles à l'appel à projets ? 
