@@ -169,7 +169,7 @@ Ce format de clinique a été initié au Lab IA pour prendre 2 à 3 heures afin 
 
 ### Les critères, les modalités d'accompagnement et les engagements pour le guichet sont-ils identiques à ceux de l'appel à projets ? 
 
-Les critères, les modalités d'accompagnement et les engagements pour les projets financés par le guichet sont les mêmes que pour les projets financés par l'appel à projets. La différence réside dans le montant des projets (le guichet concerne les projets de moins de 100 000 euros) et dans les modalités de sélection (dépôt des dossiers au fil de l'eau, pour une réponse attendue sous deux ou trois semaines, sans passage devant un jury à l'oral). 
+Les critères, les modalités d'accompagnement et les engagements pour les projets financés par le guichet sont les mêmes que pour les projets financés par l'appel à projets. La différence réside dans le montant des projets (le guichet concerne les projets de moins de 300 000 euros) et dans les modalités de sélection (dépôt des dossiers au fil de l'eau, pour une réponse attendue sous deux ou trois semaines, sans passage devant un jury à l'oral). 
 
 ### Combien de projets sont attendus le premier appel ?
 Une enveloppe de 6 millions d'euros est allouée à ce premier appel à projets. Le nombre de projets lauréats dépendra des montants des projets financés. 
