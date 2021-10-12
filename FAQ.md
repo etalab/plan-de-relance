@@ -113,8 +113,8 @@ Toutes les dépenses hors T2 (hors ETP).
 Le financement proposé est hors T2 (c'est-à-dire que les ETP ne sont pas financés). L'achat de matériel ou d'infrastructure est possible tant qu'il constitue une partie accessoire des dépenses et que le projet porte bien sur la valorisation de la donnée.  
 Si une part du financement attribué par l'appel à projets ou le guichet porte sur de l'infrastructure sur une période donnée, il faudra trouver une source de financement interne pour financer cette infrastructure après cette période (il faut donc anticiper la pérennisation du projet).  
 
-### Le seuil de 100 000 € correspond-il au coût global des projets ?
-Le seuil de 100 000 € correspond au coût global du projet. Un projet évalué à 100 000 euros recevrait donc un financement de 75 000 € de la part du Plan de Relance. 
+### Le seuil de 300 000 € pour le guichet correspond-il au coût global des projets ?
+Le seuil de 300 000 € correspond au coût global du projet. Un projet évalué à 300 000 euros recevrait donc un financement de 225 000 € de la part du Plan de Relance. 
 
 
 
